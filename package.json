@@ -4,7 +4,7 @@
   "description": "a best soluation for PC with umijs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YanPanMichael/marna-cli"
+    "url": "https://github.com/YanPanMichael/marna-soluation-pc"
   },
   "files": ["lib"],
   "scripts": {
