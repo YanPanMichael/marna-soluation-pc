@@ -1,12 +1,16 @@
 {
-  "name": "marna-soluation-pc",
-  "version": "0.0.1",
+  "name": "marna-solution-pc",
+  "version": "0.0.2",
   "description": "a best soluation for PC with umijs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YanPanMichael/marna-soluation-pc"
+    "url": "https://github.com/YanPanMichael/marna-solution-pc"
   },
-  "files": ["lib"],
+   "files": [
+    "dist",
+    "lib",
+    "src"
+  ],
   "scripts": {
     "start": "umi dev",
     "build": "umi build",
